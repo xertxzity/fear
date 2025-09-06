@@ -1,0 +1,57 @@
+2025-09-05 19:22:26 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:23:07 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:23:17 - hosts_manager - ERROR - request_redirector.py:375 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 19:23:19 - hosts_manager - ERROR - request_redirector.py:375 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 19:23:24 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:32:33 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:41:18 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:46:39 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:52:32 - hosts_manager - INFO - request_redirector.py:332 - All redirections already present in hosts file
+2025-09-05 19:53:35 - hosts_manager - ERROR - request_redirector.py:375 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 19:54:35 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 19:55:38 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 19:57:21 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 19:58:22 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 19:59:23 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:01:19 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:03:25 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:07:40 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:08:35 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:09:36 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:16:31 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:18:17 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:19:31 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:25:30 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:29:20 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:30:29 - hosts_manager - INFO - request_redirector.py:334 - All redirections already present in hosts file
+2025-09-05 20:31:45 - hosts_manager - ERROR - request_redirector.py:377 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:32:25 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:33:48 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:34:33 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:35:25 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:36:41 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:38:13 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:40:21 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:40:45 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:41:32 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:44:56 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:44:58 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:46:54 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:47:54 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:49:28 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:51:02 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:51:09 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:52:28 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:53:55 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:54:54 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:55:44 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:56:46 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 20:57:08 - hosts_manager - INFO - request_redirector.py:352 - All redirections already present in hosts file
+2025-09-05 20:58:50 - hosts_manager - ERROR - request_redirector.py:395 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 21:06:34 - hosts_manager - ERROR - request_redirector.py:378 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 21:10:55 - hosts_manager - ERROR - request_redirector.py:417 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 21:17:09 - hosts_manager - ERROR - request_redirector.py:417 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 21:17:09 - hosts_manager - INFO - request_redirector.py:371 - Added 4 domain redirections to hosts file
+2025-09-05 21:18:30 - hosts_manager - ERROR - request_redirector.py:417 - Permission denied. Run as administrator to modify hosts file.
+2025-09-05 21:18:38 - hosts_manager - INFO - request_redirector.py:374 - All redirections already present in hosts file
+2025-09-05 22:49:30 - hosts_manager - ERROR - request_redirector.py:378 - Permission denied. Run as administrator to modify hosts file.

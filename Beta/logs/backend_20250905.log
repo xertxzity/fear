@@ -1,0 +1,125 @@
+2025-09-05 19:23:09 - backend - INFO - server.py:668 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:23:09 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:23:09 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:23:09 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:23:09 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:23:26 - backend - INFO - server.py:668 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:23:26 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:23:26 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:23:26 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:23:26 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:32:36 - backend - INFO - server.py:668 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:32:36 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:32:36 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:32:36 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:32:36 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:39:05 - backend - INFO - server.py:668 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:39:05 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:39:05 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:39:05 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:39:05 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:41:20 - backend - INFO - server.py:668 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:41:20 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:41:20 - backend - ERROR - server.py:563 - Error creating SSL context: module 'ssl' has no attribute 'OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION'
+2025-09-05 19:41:20 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:41:20 - backend - ERROR - server.py:694 - Could not create SSL context, HTTPS server not started
+2025-09-05 19:43:30 - backend - INFO - server.py:686 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:43:31 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 19:43:31 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:46:41 - backend - INFO - server.py:686 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:46:41 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:46:41 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 19:47:19 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /fortnite/api/versioncheck
+2025-09-05 19:47:20 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /account/api/public/account/f0a1b2c3d4e5f6789abcdef012345678/externalAuths
+2025-09-05 19:47:20 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /account/api/epicdomains/ssodomains
+2025-09-05 19:47:20 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /eulatracking/api/shared/agreements/fn
+2025-09-05 19:48:59 - backend - INFO - server.py:686 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:48:59 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:48:59 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 19:49:02 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /friends/api/public/list/fortnite/f0a1b2c3d4e5f6789abcdef012345678/recentPlayers
+2025-09-05 19:49:39 - backend - INFO - server.py:686 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:49:39 - backend - INFO - server.py:702 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:49:44 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /fortnite/api/lightswitch
+2025-09-05 19:49:44 - backend - WARNING - server.py:495 - 404 - Endpoint not found: GET /fortnite/api/game/v2/profile/test_account/athena
+2025-09-05 19:50:15 - backend - INFO - server.py:694 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:50:15 - backend - INFO - server.py:710 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:50:20 - backend - WARNING - server.py:503 - 404 - Endpoint not found: GET /fortnite/api/game/v2/profile/test_account/athena
+2025-09-05 19:54:37 - backend - INFO - server.py:760 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:54:37 - backend - INFO - server.py:776 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:57:23 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:57:23 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 19:59:25 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 19:59:25 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:01:21 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:01:21 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:07:42 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:07:42 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:08:37 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:08:37 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:09:26 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:09:26 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:09:27 - backend - INFO - server.py:772 - Shutting down server...
+2025-09-05 20:12:50 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:12:50 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:13:37 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:13:37 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:15:44 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:15:44 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:16:24 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:16:24 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:16:33 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:16:33 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:19:33 - backend - INFO - server.py:777 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:19:33 - backend - INFO - server.py:793 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:23:36 - backend - INFO - server.py:785 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:23:36 - backend - INFO - server.py:801 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:24:11 - backend - INFO - server.py:785 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:24:11 - backend - INFO - server.py:801 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:25:32 - backend - INFO - server.py:785 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:25:32 - backend - INFO - server.py:801 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:30:31 - backend - INFO - server.py:785 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:30:31 - backend - INFO - server.py:801 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:32:27 - backend - INFO - server.py:738 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:32:27 - backend - INFO - server.py:754 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:34:35 - backend - INFO - server.py:738 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:34:35 - backend - INFO - server.py:754 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:36:43 - backend - INFO - server.py:738 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:36:43 - backend - INFO - server.py:754 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:40:23 - backend - INFO - server.py:738 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:40:23 - backend - INFO - server.py:754 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:40:47 - backend - INFO - server.py:738 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:40:47 - backend - INFO - server.py:754 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:44:58 - backend - INFO - server.py:738 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:44:58 - backend - INFO - server.py:754 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:46:56 - backend - INFO - server.py:746 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:46:56 - backend - INFO - server.py:762 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:46:56 - backend - INFO - server.py:762 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 20:49:30 - backend - INFO - server.py:746 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:49:30 - backend - INFO - server.py:762 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:49:30 - backend - INFO - server.py:762 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 20:51:11 - backend - INFO - server.py:797 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:51:11 - backend - INFO - server.py:813 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:51:11 - backend - INFO - server.py:813 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 20:53:57 - backend - INFO - server.py:812 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:53:57 - backend - INFO - server.py:828 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 20:53:57 - backend - INFO - server.py:828 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:55:46 - backend - INFO - server.py:824 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:55:46 - backend - INFO - server.py:824 - Starting HTTP server on 127.0.0.1:80
+2025-09-05 20:55:46 - backend - INFO - server.py:840 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 20:55:46 - backend - INFO - server.py:840 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 20:57:10 - backend - INFO - server.py:824 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 20:57:10 - backend - INFO - server.py:824 - Starting HTTP server on 127.0.0.1:80
+2025-09-05 20:57:10 - backend - INFO - server.py:840 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 20:57:10 - backend - INFO - server.py:840 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 21:06:36 - backend - INFO - server.py:821 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 21:06:36 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 21:06:36 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 21:17:12 - backend - INFO - server.py:821 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 21:17:12 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 21:17:12 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 21:18:40 - backend - INFO - server.py:821 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 21:18:40 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 21:18:40 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:443
+2025-09-05 22:49:32 - backend - INFO - server.py:821 - Starting HTTP server on 127.0.0.1:8080
+2025-09-05 22:49:32 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:8443
+2025-09-05 22:49:32 - backend - INFO - server.py:837 - Starting HTTPS server on 127.0.0.1:443

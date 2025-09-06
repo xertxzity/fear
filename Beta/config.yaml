@@ -1,0 +1,65 @@
+# Fortnite Season 7 Emulator Configuration
+
+# Server Configuration
+server:
+  host: "127.0.0.1"
+  port: 8080
+  ssl_port: 8443
+  ssl_port_standard: 443  # Standard HTTPS port for Fortnite
+  debug: true
+
+# Fortnite Configuration
+fortnite:
+  version: "7.40"
+  season: 7
+  build_id: "4834769"
+  
+# Launch Arguments
+launch_args:
+  - "-AUTH_LOGIN=unused"
+  - "-AUTH_PASSWORD=unused"
+  - "-AUTH_TYPE=epic"
+  - "-epicapp=Fortnite"
+  - "-epicenv=Prod"
+  - "-epiclocale=en-us"
+  - "-epicportal"
+  - "-skippatchcheck"
+  - "-nobe"
+  - "-fromfl=eac"
+  - "-fltoken=none"
+  - "-caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9"
+  - "-log"
+  - "-windowed"
+  - "-ResX=1280"
+  - "-ResY=720"
+  - "-nosslverify"
+  - "-noverifypeer"
+  - "-insecure"
+  - "-curlopt_ssl_verifypeer=0"
+  - "-curlopt_ssl_verifyhost=0"
+
+# Backend Endpoints
+endpoints:
+  # Authentication
+  oauth_token: "/account/api/oauth/token"
+  oauth_verify: "/account/api/oauth/verify"
+  
+  # Game Services
+  fortnite_api: "/fortnite/api/game/v2/profile/{accountId}/client/{command}"
+  matchmaking: "/fortnite/api/matchmaking/session/findPlayer/{playerId}"
+  
+  # Content
+  content_pages: "/content/api/pages/fortnite-game"
+  timeline: "/fortnite/api/calendar/v1/timeline"
+  
+# SSL Configuration
+ssl:
+  cert_file: "certs/server.crt"
+  key_file: "certs/server.key"
+  
+# Logging
+logging:
+  level: "INFO"
+  file: "logs/emulator.log"
+  max_size: "10MB"
+  backup_count: 5

@@ -1,0 +1,23 @@
+# Fortnite Season 7 Emulator Dependencies
+
+# HTTP Server and Networking
+flask==2.3.3
+requests==2.31.0
+werkzeug==2.3.7
+
+# SSL/TLS Handling
+cryptography==41.0.4
+
+# Process Management
+psutil==5.9.5
+
+# Configuration
+pyyaml==6.0.1
+
+# WebSocket Support
+flask-socketio==5.3.6
+python-socketio==5.8.0
+eventlet==0.33.3
+
+# Additional dependencies for SSL bypass
+urllib3==2.0.4
